@@ -1,1 +1,2 @@
 This repo is a compilation of web development projects. Frontend, Backend and Fullstack.
+Projects from Web dev with Angela Yu, Back-End Engineering with Go, and Freecode Camp.
